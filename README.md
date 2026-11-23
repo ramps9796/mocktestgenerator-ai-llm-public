@@ -105,14 +105,6 @@ For each certification, the pipeline produces:
 
 ---
 
-## Certifications covered
-
-**AWS:** Cloud Practitioner, AI Practitioner, Solutions Architect (Associate and Professional), Developer, CloudOps Engineer, Data Engineer, Machine Learning Engineer, Security Specialty, DevOps Engineer Professional, and Generative AI Developer Professional.
-
-**Microsoft:** Azure Fundamentals, Azure AI Fundamentals, Azure Administrator, Azure for SAP Workloads, DevOps Solutions, AI apps and agents, ML and GenAI operations, multi-agent solutions, and the AB-series covering Copilot, Copilot Studio, Power Platform, and agentic business solutions.
-
----
-
 ## Tech stack
 
 | Area | Technologies |
