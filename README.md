@@ -12,7 +12,6 @@ An LLM-powered pipeline that turns a certification study guide into complete, ex
 | --- | --- |
 | Certification exams configured | 27 |
 | Exams with published mock tests | 24 |
-| Vendors covered | AWS, Microsoft |
 | Tests per exam | 6 full-length tests (65 or 75 questions each) |
 | Practice questions published | ~9,600 |
 | Cost reduction from prompt caching | ~43% per run (68% of input tokens served from cache) |
@@ -136,9 +135,7 @@ The following are proprietary and are **not** included or licensed for reuse:
 
 All questions are original content generated from publicly available exam objectives. They are not taken from real exams.
 
-### Trademarks
-
-AWS, Microsoft, Azure, and all certification names and exam codes are trademarks of their respective owners. This project is independent and is not affiliated with, endorsed by, or sponsored by Amazon Web Services or Microsoft.
+Third-party trademarks and referenced technologies belong to their respective owners.
 
 ---
 
